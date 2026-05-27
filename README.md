@@ -75,10 +75,11 @@ datascienceml/
 ├── titanic/
 │ ├── data/
 │ ├── notebooks/
-│ ├── README.md ← You are here
+│ ├── README.md
 │ └── requirements.txt
-│
-│
+├── [next-project]/
+│ └── ...
+└── README.md ← You are here
 ---
 
 *Last updated: May 2026*  
