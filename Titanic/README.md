@@ -27,8 +27,8 @@ Built a classification model predicting passenger survival on the Titanic. Featu
 
 ## Files
 
-- `notebooks/titanic_analysis.ipynb` – Full analysis
-- `data/` – Raw datasets
+- `Titanic.ipynb` – Notebook File
+- `Titanic.csv` – Raw datasets
 - `requirements.txt` – Dependencies
 
 ## Run It
