@@ -65,7 +65,7 @@ A complete classification pipeline predicting passenger survival on the Titanic.
 ## 📫 Let's Connect
 
 - **GitHub:** [github.com/amirjavad2](https://github.com/amirjavad2)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [https://www.linkedin.com/in/amirjkhafaji/](https://www.linkedin.com/in/amirjkhafaji/)]()
 - **Email:** amirjavad.khafaji@gmail.com
 
 ---
@@ -75,12 +75,10 @@ datascienceml/
 ├── titanic/
 │ ├── data/
 │ ├── notebooks/
-│ ├── README.md
+│ ├── README.md ← You are here
 │ └── requirements.txt
-├── [next-project]/
-│ └── ...
-└── README.md ← You are here
-
+│
+│
 ---
 
 *Last updated: May 2026*  
