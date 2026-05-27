@@ -40,8 +40,8 @@ A complete classification pipeline predicting passenger survival on the Titanic.
 - SVC achieved 84.9% test accuracy with stable 82.7% CV mean
 - Hyperparameter tuning provided no benefit — learned when to stop
 
-📁 [View project folder](./titanic/)  
-📖 [Detailed README](./titanic/README.md)
+📁 [View project folder](./Titanic/)  
+📖 [Detailed README](./Titanic/README.md)
 
 ---
 
