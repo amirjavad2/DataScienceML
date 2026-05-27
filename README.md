@@ -70,17 +70,7 @@ A complete classification pipeline predicting passenger survival on the Titanic.
 
 ---
 
-## 📁 Repository Structure
-datascienceml
-├── titanic
-│ ├── data
-│ ├── notebooks
-│ ├── README.md
-│ └── requirements.txt
-├── [next-project]
-│ └── ...
-└── README.md ← You are here
----
+
 
 *Last updated: May 2026*  
 *"If it's working don't touch it"*
