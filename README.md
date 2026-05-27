@@ -16,7 +16,6 @@ Welcome to my central hub for all my Data Science and Machine Learning work. Eve
 | 📊 **Classification & Regression** | Supervised learning with cross-validation |
 | 🧹 **Data cleaning pipelines** | Real-world messy data handling |
 | 📈 **Visualization & reporting** | Clear charts and actionable insights |
-| 🔗 **API & data collection** (coming soon) | Financial data, web scraping, real-time pipelines |
 
 ---
 
