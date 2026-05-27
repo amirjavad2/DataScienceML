@@ -43,7 +43,6 @@ A complete classification pipeline predicting passenger survival on the Titanic.
 📁 [View project folder](./Titanic/)  
 📖 [Detailed README](./Titanic/README.md)
 
----
 
 <!-- ============================================ -->
 <!-- ADD NEW PROJECTS ABOVE THIS LINE              -->
