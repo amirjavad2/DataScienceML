@@ -64,7 +64,7 @@ A complete classification pipeline predicting passenger survival on the Titanic.
 ## 📫 Let's Connect
 
 - **GitHub:** [github.com/amirjavad2](https://github.com/amirjavad2)
-- **LinkedIn:** [https://www.linkedin.com/in/amirjkhafaji/](https://www.linkedin.com/in/amirjkhafaji/)]()
+- **LinkedIn:** [https://www.linkedin.com/in/amirjkhafaji/](https://www.linkedin.com/in/amirjkhafaji/)
 - **Email:** amirjavad.khafaji@gmail.com
 
 ---
