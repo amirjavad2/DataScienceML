@@ -4,8 +4,6 @@
 
 Welcome to my central hub for all my Data Science and Machine Learning work. Every project here is built from scratch, documented properly, and focused on real results — not just notebooks.
 
-> *"Hardly work hard — but when I do, it works."*
-
 ---
 
 ## 📁 What You'll Find Here
@@ -43,6 +41,23 @@ A complete classification pipeline predicting passenger survival on the Titanic.
 📁 [View project folder](./Titanic/)  
 📖 [Detailed README](./Titanic/README.md)
 
+### 🛒 Mall Customer Segmentation
+
+**Status:** ✅ Complete  
+**Best Silhouette:** 0.465 | **Improvement:** +12% over baseline  
+**Tech:** Python · pandas · scikit-learn · K-Means · DBSCAN · matplotlib · seaborn
+
+An unsupervised learning project segmenting mall customers into actionable marketing groups. Systematically tested 16 K-Means configurations and DBSCAN with parameter sweeps to find the optimal clustering approach.
+
+**Key achievements:**
+- Removed Gender — proved it added noise, not signal (improved silhouette from 0.415 → 0.443)
+- Capped Income at $95k — removed outlier distortion (further improved to 0.465)
+- Created 5 customer segments (Premium, Savers, Casuals, Off People, Budget Conscious)
+- DBSCAN revealed a 6th segment: "Too Old Rich" — older high-income customers invisible in 2D plots
+- Delivered specific marketing strategies for each segment
+
+📁 [View project folder](./SuperMarketClustering/)  
+📖 [Detailed README](./SuperMarketClustering/README.md)
 
 <!-- ============================================ -->
 <!-- ADD NEW PROJECTS ABOVE THIS LINE              -->
@@ -69,7 +84,5 @@ A complete classification pipeline predicting passenger survival on the Titanic.
 
 ---
 
-
-
 *Last updated: May 2026*  
-*"If it's working don't touch it"*
+> *"If it's working don't touch it"*
