@@ -41,6 +41,8 @@ A complete classification pipeline predicting passenger survival on the Titanic.
 📁 [View project folder](./Titanic/)  
 📖 [Detailed README](./Titanic/README.md)
 
+---
+
 ### 🛒 Mall Customer Segmentation
 
 **Status:** ✅ Complete  
@@ -78,9 +80,9 @@ An unsupervised learning project segmenting mall customers into actionable marke
 
 ## 📫 Let's Connect
 
-- **GitHub:** [github.com/amirjavad2](https://github.com/amirjavad2)
-- **LinkedIn:** [https://www.linkedin.com/in/amirjkhafaji/](https://www.linkedin.com/in/amirjkhafaji/)
-- **Email:** amirjavad.khafaji@gmail.com
+- [**GitHub**](https://github.com/amirjavad2)
+- [**LinkedIn**](https://www.linkedin.com/in/amirjkhafaji/)
+- [**Email:**](amirjavad.khafaji@gmail.com)
 
 ---
 
